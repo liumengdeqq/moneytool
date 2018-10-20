@@ -1,14 +1,12 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs",
-
-    "pages/index/Component/TextInput/TextInput"
+    "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#FFF0F5",
-    "navigationBarTitleText": "组件三介绍：输入框Input控件",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "navigationBarTitleText": "工资计算工具",
     "navigationBarTextStyle":"black",
     "backgroundColor": "#fbf9fe"
   }
